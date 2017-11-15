@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Любовь Гулько](https://up.htmlacademy.ru/javascript/11/user/168138).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Зюзин](https://htmlacademy.ru/profile/juwain).
 
 ---
 
